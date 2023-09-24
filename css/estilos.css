@@ -1,3 +1,19 @@
-.{
+header{
     background-color: rgb(235, 203, 145);
+}
+
+.contenido{
+    background-color: rgb(253, 239, 219);
+}
+
+.aside{
+    background-color: rgb(235, 203, 145);
+
+}
+
+footer{
+    display: flex;
+    border-style: groove;
+    align-items: center;
+
 }
